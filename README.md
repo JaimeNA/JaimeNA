@@ -8,9 +8,9 @@
 <h3>I'm Jaime</h3>
 
 <ul>
-  <li> Computer Engineering student </li>
+  <li> I'm a Computer Engineering student </li>
   <li> Self-taught programmer. </li>
-  <li> Interested in low-level programming and computers in general. </li>
+  <li> I'm interested in low-level programming and computers in general. </li>
   <li> Feel free to ask me anything. </li>
 </ul>
 
