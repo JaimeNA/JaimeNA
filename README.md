@@ -32,8 +32,8 @@
 <h2>Software and Tools</h2>
 
 <p>
-<a href="#"><img alt="Alma Linux" src="https://img.shields.io/badge/Alma%20Linux-1793D1?logo=almalinux&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="NixOS" src="https://img.shields.io/badge/NixOS-A81D33?logo=nixos&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="NixOS" src="https://img.shields.io/badge/NixOS-1793D1?logo=nixos&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="Alma Linux" src="https://img.shields.io/badge/Alma%20Linux-A81D33?logo=almalinux&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
 <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
