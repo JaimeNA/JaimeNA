@@ -1,9 +1,9 @@
 <h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=FF72FF&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=Hi+there+!;+I'm+Jaime+;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=FF72FF&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=Hi+there+!;+I'm+James+;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
 </h1>
 <br>
 
-<h3>I'm Jaime</h3>
+<h3>I'm James</h3>
 
 <ul>
   <li> I'm a Computer Engineering student </li>
@@ -33,7 +33,7 @@
 
 <p>
 <a href="#"><img alt="NixOS" src="https://img.shields.io/badge/NixOS-1793D1?logo=nixos&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="Alma Linux" src="https://img.shields.io/badge/Alma%20Linux-A81D33?logo=almalinux&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff"></a>
 <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
 <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
